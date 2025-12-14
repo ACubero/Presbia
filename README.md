@@ -34,7 +34,15 @@ Este proyecto demuestra la integración de tecnologías web modernas con servici
 *   **💾 Historial Local:** Guarda tus escaneos recientes para consultarlos sin conexión.
 *   **📱 PWA Ready:** Diseño responsive optimizado para móviles y tablets.
 
-## 📦 Instalación y Uso
+## � Galería
+
+<p align="center">
+  <img src="screenshots/screenshot_01.png" alt="Pantalla Principal" width="45%">
+  &nbsp; &nbsp;
+  <img src="screenshots/screenshot_02.png" alt="Resultado de Escaneo" width="45%">
+</p>
+
+## �📦 Instalación y Uso
 
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
