@@ -1,0 +1,7 @@
+{
+  "name": "PresbIA",
+  "description": "A visual aid tool for users with presbyopia to extract and magnify text from images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

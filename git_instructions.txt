@@ -1,0 +1,23 @@
+Instrucciones para inicializar y subir tu repositorio Git:
+
+1. Abre una terminal en la carpeta de tu proyecto (c:\Proyectos\pwa\presbia).
+
+2. Inicializa el repositorio:
+   git init
+
+3. Añade todos los archivos al área de preparación (staging):
+   git add .
+
+4. Crea el primer commit:
+   git commit -m "Initial commit: Proyecto PresbIA preparado"
+
+5. (Opcional) Renombra la rama principal a 'main' (estándar actual):
+   git branch -M main
+
+6. Ve a GitHub (o GitLab/Bitbucket), crea un nuevo repositorio vacío y copia la URL (ej: https://github.com/usuario/presbia.git).
+
+7. Vincula tu repositorio local con el remoto:
+   git remote add origin <URL_DE_TU_REPOSITORIO>
+
+8. Sube tus cambios:
+   git push -u origin main
