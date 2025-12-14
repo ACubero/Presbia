@@ -4,6 +4,8 @@
 
 PresbIA es una aplicación web progresiva (PWA) diseñada para asistir a personas con presbicia o dificultades visuales. Utiliza inteligencia artificial avanzada para extraer texto de imágenes en tiempo real y presentarlo en un formato legible, adaptable y de alto contraste.
 
+> **[🚀 PRUEBA LA DEMO EN VIVO AQUÍ](https://ai.studio/apps/drive/13li20uB3lsa8zkpA-NMq7oOWjmcpkqlv)**
+
 ## 🚀 Sobre el Proyecto
 
 Este proyecto demuestra la integración de tecnologías web modernas con servicios de IA para resolver un problema de accesibilidad real.
